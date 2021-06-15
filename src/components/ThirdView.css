@@ -1,0 +1,20 @@
+.butn{
+    width: 130px;
+    padding: 12px;
+    background: #50C4C1;
+    border-radius: 20px;
+    border:none;
+}
+.lady{
+    margin-left: -107px;
+width: 100%;
+
+}
+.third{
+    padding: 30px;
+    text-align: left;
+}
+.two{
+    margin-top: 100px;
+    font-size: 45px;
+}

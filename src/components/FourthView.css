@@ -1,0 +1,91 @@
+.buttin {
+    width: 130px;
+    padding: 12px;
+    background: #50C4C1;
+    border-radius: 20px;
+    border: none;
+}
+.imgs {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 10px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+
+.img2 {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 10px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.imags {
+    padding: 0px;
+    margin-left: 10px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS105bkvMN2NMlmQDIG-uZr4XfGxZ2RucoahA&usqp=CAU");
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+.imagx {
+    padding: 0px;
+    margin-left: 10px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-ftZkaoKe5LU5x2HVGJ2JGkYwhCRwoHysg&usqp=CAU");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+    background-size:cover;
+
+}
+
+.imagh {
+    padding: 0px;
+     margin-left: 10px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThNeokM9z-QKM0jUnc4uhRELbqiBVFvXw3w&usqp=CAU");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+    background-size:cover;
+    background-size:cover;
+
+}
+
+.imaged {
+    padding: 0px;
+    margin-left: 10px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi92uHAvC1gd_a0ZqCaJIXaeA_3DhW72XlBg&usqp=CAU");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+    background-size:cover;
+}
+
+.imged {
+    padding: 0px;
+    margin-left: 10px;
+    box-sizing: content-box;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfu-RneBib0ETYhWnCWz7M3AqzRB0k7jo5Q&usqp=CAU");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+    background-size:cover;
+
+}
+
+.imagd {
+    padding: 0px;
+    margin-left:10px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9R6WVd7lIJePzBBD2MiZRy511oh9ONh0H_w&usqp=CAU");
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
